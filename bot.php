@@ -1,6 +1,6 @@
 <?php
-define('API_KEY',"توکن"); //<====== بجای کلمه توکن توکن ربات خود را قرار دهید
-$chuser = "foxlearnir"; //<==== آی دی کاتال
+define('API_KEY',"512744759:AAEEBjj4BWvNrg2SmcZOHGhG_yDssIsoQSI"); //<====== 
+$chuser = "ahmadrezam1331"; //<==== آی دی کاتال
 /*
 آی دی کانال را بدون
 @
